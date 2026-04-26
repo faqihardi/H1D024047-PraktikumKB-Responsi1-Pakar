@@ -1,9 +1,9 @@
 # Responsi 1 Praktikum Kecerdasan Buatan - Sistem Pakar
 
-Nama: Faqih Ardiansyah
-NIM: H1D024047
-Shift Lama: A
-Shift Baru: B
+- Nama: Faqih Ardiansyah
+- NIM: H1D024047
+- Shift Lama: A
+- Shift Baru: B
 
 ## Deskripsi Project
 Mr. Betta Fisher adalah sebuah Sistem Pakar yang dibangun menggunakan Python dan Streamlit. Sistem ini dirancang untuk mendiagonsa penyakit yang dialami ikan Cupang berdasarkan gejala yang muncul pada tubuh ikan dan solusi untuk penanganannya.
