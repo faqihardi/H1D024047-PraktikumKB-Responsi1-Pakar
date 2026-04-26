@@ -17,11 +17,11 @@ Mr. Betta Fisher adalah sebuah Sistem Pakar yang dibangun menggunakan Python dan
 
 1. Clone repositori ini:
    ```bash
-   git clone [URL_REPO_ANDA]
+   git clone https://github.com/faqihardi/H1D024047-PraktikumKB-Responsi1-Pakar.git dr_betta
    ```
 2. Masuk ke direktori project:
    ```bash
-   cd responsi1_sistem_pakar
+   cd dr_betta
    ```
 3. Install semua dependencies yang dibutuhkan:
    ```bash
@@ -34,4 +34,4 @@ Mr. Betta Fisher adalah sebuah Sistem Pakar yang dibangun menggunakan Python dan
 
 ## Akses Aplikasi
 Aplikasi ini juga telah di-deploy dan dapat diakses secara langsung melalui link berikut:
-[Link Streamlit App Anda]
+[https://h1d024047-drbetta.streamlit.app/]
